@@ -1,0 +1,56 @@
+﻿Build started 23-5-2015 12:38:33.
+     1>Project "C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Jelly\Jelly.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\SFML-2.2\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Player.cpp
+         Player.cpp
+     1>Player.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(60): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(62): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(63): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(64): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(67): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(68): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(100): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(176): warning C4018: '>=' : signed/unsigned mismatch
+     1>Player.cpp(247): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(275): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(324): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(403): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(440): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(457): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>Player.cpp(458): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>Player.cpp(459): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>Player.cpp(466): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>Player.cpp(471): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>Player.cpp(483): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(488): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(493): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Release\Jelly.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\SFML-2.2\lib" "sfml-graphics.lib" "sfml-audio.lib" "sfml-network.lib" "sfml-window.lib" "sfml-system.lib" "sfml-main.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Release\Jelly.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Release\Jelly.lib" /MACHINE:X86 /SAFESEH Release\Collectables.obj
+         Release\Consumables.obj
+         Release\Enemy.obj
+         Release\Game.obj
+         Release\GameOverScreen.obj
+         Release\GameStates.obj
+         Release\main.obj
+         Release\MainScreen.obj
+         Release\Map.obj
+         Release\PauseScreen.obj
+         Release\Player.obj
+         Release\Sound.obj
+         Release\StateSwitching.obj
+         Release\TitleScreen.obj
+         Release\TutorialScreen.obj
+         Release\VictoryScreen.obj
+         Generating code
+         Finished generating code
+         Jelly.vcxproj -> C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Release\Jelly.exe
+     1>Done Building Project "C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Jelly\Jelly.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.14

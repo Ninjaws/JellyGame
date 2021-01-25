@@ -1,0 +1,539 @@
+﻿  Collectables.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\collectables.cpp(236): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Consumables.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(212): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(278): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\consumables.cpp(317): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(17): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(72): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(73): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(74): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(75): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(77): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(78): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(117): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(176): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(202): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(276): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(362): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(366): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(379): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(433): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(450): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(483): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(484): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(516): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(522): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(525): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\enemy.cpp(565): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\game.cpp(74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\game.cpp(104): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\game.cpp(108): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameOverScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(14): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(15): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(66): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(75): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\gameoverscreen.cpp(93): warning C4018: '<': signed/unsigned mismatch
+  GameStates.cpp
+  main.cpp
+  MainScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(14): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(15): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(62): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\mainscreen.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Map.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(20): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(20): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\map.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  PauseScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(14): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(15): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(66): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\pausescreen.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(59): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(60): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(62): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(63): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(64): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(65): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(67): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(166): warning C4018: '>=': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(265): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(393): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(447): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(448): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(449): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(456): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(461): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(473): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(478): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\player.cpp(483): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Sound.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(16): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(71): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(93): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(104): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(115): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(126): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(141): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(157): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\sound.cpp(175): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  StateSwitching.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(150): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(153): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(154): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\stateswitching.cpp(186): warning C4018: '<': signed/unsigned mismatch
+  TitleScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(53): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(65): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(73): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(80): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\titlescreen.cpp(81): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  TutorialScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(13): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(53): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(61): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\tutorialscreen.cpp(62): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  VictoryScreen.cpp
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(51): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(52): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(56): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(79): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(128): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(128): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(139): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(150): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(159): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(159): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\aspire v3-772g-747a8\documents\visual studio 2013\projects\sfml\jelly\victoryscreen.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+VictoryScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Collectables.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Consumables.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Enemy.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Player.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Enemy.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::RectangleShape &&)" (__imp_??0RectangleShape@sf@@QAE@$$QAV01@@Z) referenced in function "public: static void __cdecl std::_Default_allocator_traits<class std::allocator<class sf::RectangleShape> >::construct<class sf::RectangleShape,class sf::RectangleShape>(class std::allocator<class sf::RectangleShape> &,class sf::RectangleShape * const,class sf::RectangleShape &&)" (??$construct@VRectangleShape@sf@@V12@@?$_Default_allocator_traits@V?$allocator@VRectangleShape@sf@@@std@@@std@@SAXAAV?$allocator@VRectangleShape@sf@@@1@QAVRectangleShape@sf@@$$QAV34@@Z)
+GameOverScreen.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QAE@$$QAV01@@Z) referenced in function "public: static void __cdecl std::_Default_allocator_traits<class std::allocator<class sf::Text> >::construct<class sf::Text,class sf::Text>(class std::allocator<class sf::Text> &,class sf::Text * const,class sf::Text &&)" (??$construct@VText@sf@@V12@@?$_Default_allocator_traits@V?$allocator@VText@sf@@@std@@@std@@SAXAAV?$allocator@VText@sf@@@1@QAVText@sf@@$$QAV34@@Z)
+MainScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QAE@$$QAV01@@Z)
+PauseScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QAE@$$QAV01@@Z)
+VictoryScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QAE@$$QAV01@@Z)
+C:\Users\Aspire V3-772G-747a8\Documents\Visual Studio 2013\Projects\SFML\Debug\Jelly.exe : fatal error LNK1120: 3 unresolved externals
